@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import sqlalchemy
-# import psycopg2
+import psycopg2_binary
 
 
 
