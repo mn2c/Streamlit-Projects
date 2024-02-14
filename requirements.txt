@@ -2,6 +2,4 @@ requests
 numpy
 pandas
 sqlalchemy
-json
 psycopg2
-
